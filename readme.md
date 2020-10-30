@@ -1,6 +1,8 @@
 # Image Creation and Flashing
 
 
+Link to the current arm64 Os: https://downloads.raspberrypi.org/raspios_arm64/images/
+
 ## Create image
 
 ### On RPI
