@@ -3,6 +3,18 @@
 
 Link to the current arm64 Os: https://downloads.raspberrypi.org/raspios_arm64/images/
 
+## Booting from USB
+- Flash raspios Lite
+- add `ssh` to boot dir
+- update the system including the bootloader:
+```sh
+sudo apt update
+sudo apt full-upgrade
+sudo reboot
+```
+- use raspi-config to choose between SD/USB (default) or SD/Network boot modes.
+
+
 ## Create image
 
 ### On RPI
