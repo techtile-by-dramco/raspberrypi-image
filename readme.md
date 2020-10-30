@@ -12,7 +12,7 @@ sudo apt update
 sudo apt full-upgrade
 sudo reboot
 ```
-- use raspi-config to choose between SD/USB (default) or SD/Network boot modes.
+- use raspi-config to choose between SD/USB (default) or SD/Network boot modes: `Advanced Options > Boot Order`
 
 hostname is: `midas-usb-boot.local`.
 
