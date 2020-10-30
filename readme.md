@@ -1,7 +1,7 @@
 # Image Creation and Flashing
 
 
-Link to the current arm64 Os: https://downloads.raspberrypi.org/raspios_arm64/images/
+Link to the current arm64 OS: https://downloads.raspberrypi.org/raspios_arm64/images/
 
 ## Booting from USB
 - Flash raspios Lite
