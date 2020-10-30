@@ -14,6 +14,7 @@ sudo reboot
 ```
 - use raspi-config to choose between SD/USB (default) or SD/Network boot modes.
 
+hostname is: `midas-usb-boot.local`.
 
 ## Create image
 
