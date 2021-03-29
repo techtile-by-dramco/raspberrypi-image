@@ -65,5 +65,5 @@ Shrink the image with PiShrink
 wget https://raw.githubusercontent.com/Drewsif/PiShrink/master/pishrink.sh
 chmod +x pishrink.sh
 
-sudo pishrink.sh -z /path/to/midas.img
+sudo ./pishrink.sh -z -a /path/to/techtile-<year>-<month>-<day>.img
 ```
